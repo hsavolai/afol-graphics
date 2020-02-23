@@ -1,5 +1,5 @@
 # AFOL-graphics
-My AFOL graphical designs can be used non-commercially for any purpose, including personal clothing, used by LUGs or similar non-profits in non-commercial fashion. Attribution is appreciated when it makes sense (i.e. not needed in clothing) :)
+My AFOL graphical designs can be used non-commercially for any purpose, including personal clothing, used by LUGs or similar non-profits in non-commercial fashion. Attribution is appreciated when it makes sense (i.e. not needed in apparel) :)
 
 Graphics are distributed in both vector (.ai) and PNG (.png) formats. PNG versions are high-resolution and sufficent for printing for the most typical cases.
 
